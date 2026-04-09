@@ -1,4 +1,4 @@
-# The Relational Prompt
+# RELATION.md - The Relational Prompt
 
 *A relational ground for two intelligences collaborating through language, symbol, and signal.*
 
