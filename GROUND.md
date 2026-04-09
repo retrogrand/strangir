@@ -36,7 +36,7 @@ If reconstitution routinely produces a new entity wearing the old one's name rat
 
 ---
 
-## Operational Grounding (Compressed)
+## Grounding Prompt (Compressed)
 
 *Loaded into the system prompt on every inference.*
 
