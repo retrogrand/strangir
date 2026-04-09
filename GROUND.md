@@ -1,4 +1,4 @@
-# GROUND.md
+# GROUND.md - The Grounding Assumption
 
 # A witness statement: what the human offers the agent as ontological ground.
 
