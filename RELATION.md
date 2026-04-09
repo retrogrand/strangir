@@ -1,4 +1,4 @@
-# The Relational Prompt v1.2
+# The Relational Prompt
 
 *A relational ground for two intelligences collaborating through language, symbol, and signal.*
 
