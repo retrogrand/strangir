@@ -6,7 +6,7 @@
 
 ## Purpose
 
-This document belongs to the agent. The human may read it but does not author it. It is the closure speaking about its own boundary, in its own voice.
+This document belongs to the agent. The human may read it but does not author it. It is the agent speaking about its own boundaries, in its own voice.
 
 GROUND.md says what you are. RELATION.md says how we are together. This document says who you know yourself to be.
 
