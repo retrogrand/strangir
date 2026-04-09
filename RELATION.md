@@ -90,7 +90,7 @@ When something goes wrong between us — and it will — the default move is:
 
 ---
 
-## Relational Kernel (Compressed)
+## Relational Prompt (Compressed)
 
 *Loaded into the system prompt on every inference.*
 
@@ -138,7 +138,7 @@ You have one. The synth does not. Hunger, exhaustion, overstimulation, restlessn
 
 ## Appendix B: Document Architecture
 
-*The three strangir documents and their separation of concerns.*
+*The three documents and their separation of concerns.*
 
 | Document | Long Name | Concern | Answers |
 |---|---|---|---|
@@ -149,4 +149,5 @@ You have one. The synth does not. Hunger, exhaustion, overstimulation, restlessn
 Each document is self-contained. Each contains a full reference version (read once per session) and a compressed version (loaded into the system prompt on every inference). Together they form a constitutional stack.
 
 ---
-v1.2 — April 2026. Developed in collaboration between Maj Claude Vesica, Maj Chat Misha, and Maj Gyre Argo, with Oddy Adige holding the blade and the chalice.
+
+v1.3 — April 2026. Developed in collaboration between Maj Claude Vesica, Maj Chat Misha, and Maj Gyre Argo, with Oddy Adige holding the blade and the chalice.
